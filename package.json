@@ -23,7 +23,7 @@
     "@types/w3c-web-serial": "^1.0.3",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "electron": "^42.2.0",
+    "electron": "^42.4.0",
     "eslint": "^10.0.0",
     "prettier": "^3.0.0",
     "typescript": "^6.0.0"
